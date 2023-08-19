@@ -9,7 +9,7 @@ The project was built using the following:
 
 3. Browser extensions
 
-4. Web broswer like google chrome
+4. Web broswer like google 
 
 5. Version control like git
 ## Pre-requisites
