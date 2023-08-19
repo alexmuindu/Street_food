@@ -49,7 +49,7 @@ code .
 
 ## Screenshots
 
-This is a sample what my web looks like;
+This is a sample of my page
 
 
 
