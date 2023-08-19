@@ -41,7 +41,7 @@ git clone https://github.com/alexmuindu/Street_food
 cd  photography-web
 ```
 
-- Open it in visual studio code.
+- Open your visual studio code.
 ```
 code .
 ```
