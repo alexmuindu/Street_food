@@ -83,7 +83,7 @@ nav ul {
   flex-direction: row;
   align-items: flex-start;
   gap: 90px;
-  border: 1px solid gray; 
+  border: 2px solid gray; 
 }
 
 
