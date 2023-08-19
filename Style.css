@@ -120,7 +120,7 @@ text-align: left;
 
 .container p {
   order: 2;
-  margin: 0;
+  margin: 1;
   text-align: left;
 }
 
