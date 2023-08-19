@@ -62,7 +62,7 @@ This is a sample of my page
 | 
 ## Author
 
-This  project was built and is maintained by:
+The  project was built and is maintained by:
 
 - [Alex wambua ](https://github.com/alexmuindu)
 
