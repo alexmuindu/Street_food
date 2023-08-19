@@ -68,7 +68,7 @@ The  project was built and is maintained by:
 
 ## License
 
-The  application has been distributed under mit license.
+The  application has been distributed under MIT license.
 
 ```
 Copyright 2023 Alex wambua
