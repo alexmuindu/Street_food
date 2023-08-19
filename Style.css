@@ -1,131 +1,177 @@
 
 
 ul {
-    list-style: none;
-    padding: 10px;
-    margin: 20px;
-  }
-  
-  
-  nav ul {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    gap: 80px; 
-  }
-  
-  nav li {
-    display: block;
-  }
+  list-style: none;
+  padding: 10px;
+  margin: 20px;
+}
 
-  nav a {
-    text-decoration: none;
-    color: #333; 
-  }
-  
-  
-  .icon {
-    display: flex;
-    align-items: center;
-    gap: 30px; 
-  }
-  
-  
-  .icon .fa-solid {
-    font-size: 40px;
 
-    
-  }
-  
-  
-  .icon p {
-    margin: 0;
-  }
-  
-  .ellipse {
-    width: 100px;
-    height: 60px;
-    border-radius: 50% / 100% 100% 0 0;
-    background-color: green;
-    position: left;
-    transform: scaleX(2);
-    text-emphasis: right;
-  }
+nav ul {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 80px; 
+}
 
-  .ellipse::before,
-  .ellipse::after {
-    content: "";
-    width: 100px;
-    height: 120px;
-    border-radius: 50%;
-    background-color: green;
-    position: absolute;
-  }
+nav li {
+  display: block;
+}
 
-  .ellipse::before {
-    left: -20px;
-    top: -40px;
-  }
+nav a {
+  text-decoration: none;
+  color: #333; 
+}
 
-  .ellipse::after {
-    left: 20px;
-    top: -40px;
-  }
-  ul {
-    list-style: none;
-    padding: 10px;
-    margin: 20px;
-    border: 1px solid gray; /* Add border properties */
-  }
+
+.icon {
+  display: flex;
+  align-items: center;
+  gap: 30px; 
+}
+
+
+.icon .fa-solid {
+  font-size: 40px;
+
   
-  nav ul {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    gap: 80px;
-    border: 1px solid gray; /* Add border properties */
-  }
-  
-  /* ... Other styles ... */
-  
+}
+
+
+.icon p {
+  margin: 0;
+}
+
+.ellipse {
+  width: 100px;
+  height: 60px;
+  border-radius: 50% / 100% 100% 0 0;
+  background-color: green;
+  position: left;
+  transform: scaleX(2);
+  text-emphasis: right;
+}
+
+.ellipse::before,
+.ellipse::after {
+  content: "";
+  width: 100px;
+  height: 120px;
+  border-radius: 50%;
+  background-color: green;
+  position: absolute;
+}
+
+.ellipse::before {
+  left: -20px;
+  top: -40px;
+}
+
+.ellipse::after {
+  left: 20px;
+  top: -40px;
+}
+ul {
+  list-style: none;
+  padding: 10px;
+  margin: 20px;
+  border: 1px solid gray; 
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 80px;
+  border: 1px solid gray; 
+}
+
+
+
 .p{
 text-align: left;
 }
 .container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    text-align: right;
-  }
-  
-  .image {
-    float: left;
-    margin-right: 20px;
-  }
-  
-  .text {
-    text-align: left;
-  }
-  .container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    text-align: right;
-  }
-  
-  .container h4 {
-    order: 2;
-    margin: 0;
-  }
-  
-  .container p {
-    order: 2;
-    margin: 0;
-    text-align: left;
-  }
-  
-  .container img {
-    order: 1;
-    margin-right: 20px;
-  }
-  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: right;
+}
+
+.image {
+  float: left;
+  margin-right: 20px;
+}
+
+.text {
+  text-align: left;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: right;
+}
+
+.container h4 {
+  order: 2;
+  margin: 0;
+}
+
+.container p {
+  order: 2;
+  margin: 0;
+  text-align: left;
+}
+
+.container img {
+  order: 1;
+  margin-right: 20px;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.eclipse {
+  background-color: #649549;
+}
+
+
+.button {
+  background-color: #6CB840;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+.text-orange {
+  color: #EAAB1B;
+}
+
+.text-green {
+  color: #6CB840;
+}
+
+
+.hot-deals-section {
+  background-color: #C9ECB5;
+  padding: 20px;
+}
+
+
+.contact-section {
+  background-color: #FFD77C;
+  padding: 20px;
+}
+
+
+.footer {
+  background-color: #C9ECB5;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
