@@ -47,7 +47,7 @@ code .
 ```
 - Run the broswer by opening it in **Liveserver**
 
-## Screenshots
+## My screenshots
 
 This is a sample of my page
 
