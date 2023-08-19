@@ -24,7 +24,7 @@ For one to run this application you have to require the following:
 
 - 4GB ram
 
-- 4GB free space
+
 
 ## Setup
 
