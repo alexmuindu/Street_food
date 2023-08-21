@@ -38,7 +38,7 @@ git clone https://github.com/alexmuindu/Street_food
 - Change into the working directory
 
 ```
-cd  photography-web
+cd  street_food
 ```
 
 - Open your visual studio code.
@@ -51,14 +51,12 @@ code .
 
 This is a sample of my page
 
+| ONE            | TWO              | THREE            |
+| -------------- | ---------------- | ---------------- |
+| ![image10](image%2010.png) | ![Burger](image%206.png) | ![image5](image%205.png) |
 
 
 
-
-| ONE | TWO| THREE |
-|----------------|-------------------|-----------------|
-| ![image10](image 10.png)  |  ![image6](image 6.png) | ![image5](image 5.png)
-  |
 | 
 ## Author
 
